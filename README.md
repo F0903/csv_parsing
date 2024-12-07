@@ -6,7 +6,7 @@ Obviously not recommended for use in any serious capacity.
 
 ## Usage
 
-To use the parser, you can follow the example below
+To use the parser, you can follow the example below:
 
 ```py
 from .parsing.parser import CsvParser, BadLineMode
