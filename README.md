@@ -1,6 +1,6 @@
 # csv_parsing
 
-A basic CSV parser written in Python in less than a week for fun and learning purposes. Originally written for another project.
+A basic CSV parser written in Python in less than a day for fun and learning purposes. Originally written for another project.
 
 Obviously not recommended for use in any serious capacity.
 
